@@ -1,5 +1,8 @@
 <template>
-  <h1>{{ msg }}</h1>
+  <div id="app">
+    <img src="logo.png">
+    <h1>{{ msg }}</h1>
+  </div>
 </template>
 
 <script>
