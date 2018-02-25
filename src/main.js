@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueFire from 'vuefire'
-import App from './hello.vue'
+import App from './App.vue'
 
 Vue.use(VueFire);
 
